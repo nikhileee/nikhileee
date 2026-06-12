@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @nikhileee
-- 👀 I’m interested in coding in FullStack
-- 🌱 I’m currently learning CS Engineering
+- 👋 Hi, I’m @nikhileee 
+- 👀 Nikhil Ladwa - Senior Software Engineer
 - 💞️ I’m looking to collaborate on FullStack Dev
 - 📫 How to reach me nikhilladwa3@gmail.com
 
